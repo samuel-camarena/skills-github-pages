@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Sam's web!
 ---
+Hello fellow Devs 👋!
